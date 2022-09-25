@@ -2,10 +2,10 @@
 
 How to Solve Dp Problems ?
 
- 1.First Develop a Recursive Solution
- 2.Then Apply Bottom Down
- 3.Bottom Up 
- 4.Space Optimization
+# 1.First Develop a Recursive Solution
+# 2.Then Apply Bottom Down
+# 3.Bottom Up 
+# 4.Space Optimization
     
 2.Bottom Down
 --> Step 1 . Create A Dp Array 
